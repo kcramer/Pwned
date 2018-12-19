@@ -1,0 +1,6 @@
+framework module Pods_PwnedTests {
+  umbrella header "Pods-PwnedTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

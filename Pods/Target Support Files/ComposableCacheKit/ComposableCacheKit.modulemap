@@ -1,0 +1,6 @@
+framework module ComposableCacheKit {
+  umbrella header "ComposableCacheKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

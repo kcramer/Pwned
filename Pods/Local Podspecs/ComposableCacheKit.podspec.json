@@ -1,0 +1,30 @@
+{
+  "name": "ComposableCacheKit",
+  "version": "0.1.0",
+  "summary": "A Swift framework that provides a lightweight, composable cache.",
+  "description": "ComposableCacheKit is a Swift framework that provides a lightweight, composable cache.",
+  "homepage": "https://github.com/kcramer/ComposableCacheKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kevin Cramer": "kevinx@sent.com"
+  },
+  "source": {
+    "git": "https://github.com/kcramer/ComposableCacheKit",
+    "tag": "0.1.0"
+  },
+  "dependencies": {
+    "Promises": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "10.0",
+    "osx": "10.12",
+    "watchos": "3.0",
+    "tvos": "10.0"
+  },
+  "source_files": "ComposableCacheKit/**/*.swift"
+}

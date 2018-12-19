@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  Pwned
+
+  Created by Kevin on 10/29/18.
+  Copyright © 2018 Kevin. All rights reserved.
+*/
+
+// Onboarding
+
+"OnboardingScreenOne" = "Pwned uses the Have I Been Pwned? database created by security researcher Troy Hunt.\n\nWhen sites are hacked, any public information about the accounts and passwords included in that breach are added to this database. It can include user names, email addresses, passwords, and more.";
+
+"OnboardingScreenTwo" = "Hackers may use these leaked passwords to guess passwords for other sites.\n\nDo not use passwords that are found in this database. If one of your passwords is found, change it as soon as possible.\n\nYour actual password does not leave your device.";
+
+"OnboardingScreenThree" = "You can also search if your account has been a part of a breach.  User names and emails can be a part of a breach.\n\nIf one of your accounts was included in a breach, it is recommended that you change your password for that account.";
+
+"Skip" = "Skip";
+
+"Continue" = "Continue";
+
+// Dashboard
+
+"Password" = "Password";
+
+"Account" = "Account";
+
+// Password Check
+
+"Password Check" = "Password Check";
+
+"PasswordPlaceholder" = "Enter password to check";
+
+// Account List
+
+"Account Search" = "Account Search";
+
+"NoBreachesMsg" = "No breaches found.  Enter another username or email to search again.";
+
+"BreachSearchErrorMsg" = "Error.  Enter a username or email to try again.";
+
+"BreachSearchOfflineMsg" = "Cannot connect to the service.  Try again later.";
+
+"BreachSearchPlaceholder" = "Username or email";
+
+"Breaches (%d)" = "Breaches (%d)";
+
+"Pastes (%d)" = "Pastes (%d)";
+
+"Breaches" = "Breaches";
+
+"Pastes" = "Pastes";
+
+// Recent Searches
+
+"Recent" = "Recent";
+
+// Breach Detail
+
+"Verified" = "Verified";
+
+"Unverified" = "Unverified";
+
+"Fabricated" = "Fabricated";
+
+// Paste Detail
+
+"Untitled" = "Untitled";

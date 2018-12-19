@@ -1,0 +1,25 @@
+{
+  "name": "HIBPKit",
+  "version": "0.1.0",
+  "summary": "A Swift framework to query the Have I Been Pwned? database.",
+  "description": "HIBPKit is a Swift framework to query the Have I Been Pwned? database.",
+  "homepage": "https://github.com/kcramer/HIBPKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kevin Cramer": "kevinx@sent.com"
+  },
+  "source": {
+    "git": "https://github.com/kcramer/HIBPKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0",
+    "osx": "10.13",
+    "tvos": "11.0",
+    "watchos": "3.0"
+  },
+  "source_files": "HIBPKit/**/*.swift"
+}

@@ -1,0 +1,86 @@
+PODS:
+  - ComposableCacheKit (0.1.0):
+    - Promises
+  - Differentiator (3.1.0)
+  - HIBPKit (0.1.0)
+  - Promises (2.0.1)
+  - Reusable (4.0.5):
+    - Reusable/Storyboard (= 4.0.5)
+    - Reusable/View (= 4.0.5)
+  - Reusable/Storyboard (4.0.5)
+  - Reusable/View (4.0.5)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxFeedback (1.1.1):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxFlow (1.6.2):
+    - RxCocoa (>= 4.3.0)
+    - RxSwift (>= 4.3.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - RxTest (4.4.0):
+    - RxAtomic (~> 4.4)
+    - RxSwift (~> 4.0)
+
+DEPENDENCIES:
+  - "ComposableCacheKit (from `git@github.com:kcramer/ComposableCacheKit.git`)"
+  - "HIBPKit (from `git@github.com:kcramer/HIBPKit.git`)"
+  - Promises
+  - Reusable
+  - RxCocoa (~> 4.0)
+  - RxDataSources (~> 3.0)
+  - RxFeedback
+  - RxFlow
+  - RxSwift (~> 4.0)
+  - RxTest
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Differentiator
+    - Promises
+    - Reusable
+    - RxAtomic
+    - RxCocoa
+    - RxDataSources
+    - RxFeedback
+    - RxFlow
+    - RxSwift
+    - RxTest
+
+EXTERNAL SOURCES:
+  ComposableCacheKit:
+    :git: "git@github.com:kcramer/ComposableCacheKit.git"
+  HIBPKit:
+    :git: "git@github.com:kcramer/HIBPKit.git"
+
+CHECKOUT OPTIONS:
+  ComposableCacheKit:
+    :commit: a42403bf09491c40eccbd7abcc16a1b8ad3a09b2
+    :git: "git@github.com:kcramer/ComposableCacheKit.git"
+  HIBPKit:
+    :commit: 774cdb6d70070ba826deacdd8ba4f4288ba5a306
+    :git: "git@github.com:kcramer/HIBPKit.git"
+
+SPEC CHECKSUMS:
+  ComposableCacheKit: db92754274d20ee6645a08073ce3b6883a3c2547
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  HIBPKit: 247cadaf49fcef67ab5f933117e2ef5d9a413889
+  Promises: e94e1d74d818d1d2f8933e1f4f12d443c3bb4f3b
+  Reusable: 188be1a54ac0691bc66e5bb24ec6eb91971b315b
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxFeedback: 640e317bc7f6c4914c39a2063c6d5c0e6c1aa65d
+  RxFlow: 2460b8f1d546a7536d3b259536357301030a4140
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  RxTest: 19d03286bdc0a3aaea5d61d4cde31fdf4bb8a5ba
+
+PODFILE CHECKSUM: 77d81c1675f731513372f252dea42382c0724b85
+
+COCOAPODS: 1.5.3

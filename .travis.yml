@@ -1,0 +1,9 @@
+matrix:
+  include:
+    - name: "iOS 12 iPhone X Test"
+      osx_image: xcode10.1
+      xcode_workspace: Pwned.xcworkspace
+      xcode_scheme: Pwned
+      xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
+      os: osx
+      language: swift

@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>specs</key>
+	<array>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Kevin Cramer</key>
+				<string>kevinx@sent.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;ComposableCacheKit is a Swift framework that provides a lightweight, composable cache.&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/kcramer/ComposableCacheKit</string>
+			<key>licenseText</key>
+			<string>MIT License
+
+Copyright (c) 2018 Kevin Cramer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>ComposableCacheKit</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>A Swift framework that provides a lightweight, composable cache.</string>
+			<key>version</key>
+			<string>0.1.0</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Krunoslav Zaher</key>
+				<string>krunoslav.zaher@gmail.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;Diff algorithm for UITableView and UICollectionView.
+RxDataSources is powered by Differentiator.&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/RxSwiftCommunity/RxDataSources</string>
+			<key>licenseText</key>
+			<string>MIT License
+
+Copyright (c) 2017 RxSwift Community
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>Differentiator</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>Diff algorithm for UITableView and UICollectionView.</string>
+			<key>version</key>
+			<string>3.1.0</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Kevin Cramer</key>
+				<string>kevinx@sent.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;HIBPKit is a Swift framework to query the Have I Been Pwned? database.&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/kcramer/HIBPKit</string>
+			<key>licenseText</key>
+			<string>MIT License
+
+Copyright (c) 2018 Kevin Cramer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>HIBPKit</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>A Swift framework to query the Have I Been Pwned? database.</string>
+			<key>version</key>
+			<string>0.1.0</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Soroush Khanlou</key>
+				<string>soroush@khanlou.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;A Promise library for Swift, based partially on Javascript&amp;#39;s A+ spec&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/khanlou/Promise</string>
+			<key>licenseText</key>
+			<string>The MIT License (MIT)
+
+Copyright (c) 2016 Soroush Khanlou
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>Promises</string>
+			<key>socialMediaURL</key>
+			<string>https://twitter.com/khanlou</string>
+			<key>summary</key>
+			<string>A Promise library for Swift</string>
+			<key>version</key>
+			<string>2.0.1</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Olivier Halligon</key>
+				<string>olivier@halligon.net</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;Reusable is a &lt;a href="http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/"&gt;Swift Mixin&lt;/a&gt;
+to easily deal with your reusable UITableViewCell and UICollectionViewCell classes.&lt;/p&gt;
+
+&lt;p&gt;Simply mark your &lt;code&gt;UITableViewCell&lt;/code&gt; or &lt;code&gt;UICollectionViewCell&lt;/code&gt; sublcasses as
+conforming to either &lt;code&gt;Reusable&lt;/code&gt; or &lt;code&gt;NibReusable&lt;/code&gt; and you&amp;#39;ll be able to
+manipulate them way easier, and without worrying with String-type reuseIdentifiers
+ever again, and instead use them in a type-safe manner!&lt;/p&gt;
+
+&lt;p&gt;Reusable also support marking any arbitrary &lt;code&gt;UIView&lt;/code&gt; subclass as &lt;code&gt;NibLoadable&lt;/code&gt; so that
+you can then call &lt;code&gt;loadFromNib()&lt;/code&gt; on the custom view class easily without adding any code.&lt;/p&gt;
+
+&lt;p&gt;For more info, see &lt;a href="http://alisoftware.github.io/swift/generics/2016/01/06/generic-tableviewcells/"&gt;my blog post&lt;/a&gt;
+about this technique.&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/AliSoftware/Reusable</string>
+			<key>licenseText</key>
+			<string>The MIT License (MIT)
+
+Copyright (c) 2016 AliSoftware
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>Reusable</string>
+			<key>socialMediaURL</key>
+			<string>http://twitter.com/aligatr</string>
+			<key>summary</key>
+			<string>A Swift Mixin to deal with reusable UITableView &amp; UICollectionView cells and XIB-based views</string>
+			<key>version</key>
+			<string>4.0.5</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Krunoslav Zaher</key>
+				<string>krunoslav.zaher@gmail.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;Atomic primitives for RxSwift.&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/ReactiveX/RxSwift</string>
+			<key>licenseText</key>
+			<string>**The MIT License**
+**Copyright © 2015 Krunoslav Zaher**
+**All rights reserved.**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>RxAtomic</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>Atomic primitives for RxSwift</string>
+			<key>version</key>
+			<string>4.4.0</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Krunoslav Zaher</key>
+				<string>krunoslav.zaher@gmail.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;ul&gt;
+&lt;li&gt;UI extensions&lt;/li&gt;
+&lt;li&gt;NSURL extensions&lt;/li&gt;
+&lt;li&gt;KVO extensions&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/ReactiveX/RxSwift</string>
+			<key>licenseText</key>
+			<string>**The MIT License**
+**Copyright © 2015 Krunoslav Zaher**
+**All rights reserved.**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>RxCocoa</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>RxSwift Cocoa extensions</string>
+			<key>version</key>
+			<string>4.4.0</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Krunoslav Zaher</key>
+				<string>krunoslav.zaher@gmail.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;This is a collection of reactive data sources for UITableView and UICollectionView.&lt;/p&gt;
+
+&lt;p&gt;It enables creation of animated data sources for table an collection views in just a couple of lines of code.&lt;/p&gt;
+
+&lt;p&gt;```swift
+let data: Observable&lt;Section&gt; = ...&lt;/p&gt;
+
+&lt;p&gt;let dataSource = RxTableViewSectionedAnimatedDataSource&lt;Section&gt;()
+dataSource.cellFactory = { (tv, ip, i) in
+    let cell = tv.dequeueReusableCell(withIdentifier: &amp;quot;Cell&amp;quot;) ?? UITableViewCell(style:.Default, reuseIdentifier: &amp;quot;Cell&amp;quot;)
+    cell.textLabel!.text = &amp;quot;(i)&amp;quot;
+    return cell
+}&lt;/p&gt;
+
+&lt;p&gt;// animated
+data
+    .bind(to: animatedTableView.rx.items(dataSource: dataSource))
+    .disposed(by: disposeBag)&lt;/p&gt;
+
+&lt;p&gt;// normal reload
+data
+    .bind(to: tableView.rx.items(dataSource: dataSource))
+    .disposed(by: disposeBag)
+```&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/RxSwiftCommunity/RxDataSources</string>
+			<key>licenseText</key>
+			<string>MIT License
+
+Copyright (c) 2017 RxSwift Community
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>RxDataSources</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>This is a collection of reactive data sources for UITableView and UICollectionView.</string>
+			<key>version</key>
+			<string>3.1.0</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Krunoslav Zaher</key>
+				<string>krunoslav.zaher@gmail.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;Simplest architecture for RxSwift. State + feedback loops.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Simple
+
+&lt;ul&gt;
+&lt;li&gt;If the system doesn&amp;#39;t have state -&amp;gt; congrats, you have either a pure function or an observable sequence&lt;/li&gt;
+&lt;li&gt;It the system does have state, here we are :)&lt;/li&gt;
+&lt;li&gt;Interaction with that state is by definition a feedback loop.&lt;/li&gt;
+&lt;li&gt;=&amp;gt;  It&amp;#39;s just state + CQRS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Straightforward
+
+&lt;ul&gt;
+&lt;li&gt;if it&amp;#39;s state -&amp;gt; State&lt;/li&gt;
+&lt;li&gt;if it&amp;#39;s a way to modify state -&amp;gt; Mutation&lt;/li&gt;
+&lt;li&gt;it it&amp;#39;s an effect -&amp;gt; encode it into part of state and then design a feedback loop&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Declarative
+
+&lt;ul&gt;
+&lt;li&gt;System behavior is first declaratively specified and effects begin after subscribe is called =&amp;gt; Compile time proof there are no &amp;quot;unhandled states&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Debugging is easier&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A lot of logic is just normal pure function that can be debugged using Xcode debugger, or just printing the commands.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Can be applied on any level&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://kafka.apache.org/documentation/"&gt;Entire system&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;application (state is stored inside a database, CoreData, Firebase, Realm)&lt;/li&gt;
+&lt;li&gt;view controller (state is stored inside &lt;code&gt;system&lt;/code&gt; operator)&lt;/li&gt;
+&lt;li&gt;inside feedback loop (another &lt;code&gt;system&lt;/code&gt; operator inside feedback loop)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Works awesome with dependency injection&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Testing&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reducer is a pure function, just call it and assert results&lt;/li&gt;
+&lt;li&gt;In case effects are being tested -&amp;gt; TestScheduler&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Can model circular dependencies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Completely separates business logic from effects (Rx).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Business logic can be transpiled between platforms (ShiftJS, C++, J2ObjC)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/NoTests/RxFeedback.swift</string>
+			<key>licenseText</key>
+			<string>The MIT License (MIT)
+
+Copyright (c) 2017 Krunoslav Zaher
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>RxFeedback</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>Simplest architecture for RxSwift. State + feedback loops.</string>
+			<key>version</key>
+			<string>1.1.1</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>RxSwiftCommunity</key>
+				<string>https://github.com/RxSwiftCommunity</string>
+				<key>Thibault Wittemberg</key>
+				<string>thibault.wittemberg@gmail.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;RxFlow aims to&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Promote the cutting of storyboards into atomic units to enable collaboration and reusability of UIViewControllers&lt;/li&gt;
+&lt;li&gt;Allow the presentation of a UIViewController in different ways according to the navigation context&lt;/li&gt;
+&lt;li&gt;Ease the implementation of dependency injection&lt;/li&gt;
+&lt;li&gt;Remove any navigation mechanism from UIViewControllers&lt;/li&gt;
+&lt;li&gt;Promote reactive programing&lt;/li&gt;
+&lt;li&gt;Express the navigation in a declarative way while addressing the majority of the navigation cases&lt;/li&gt;
+&lt;li&gt;Facilitate the cutting of an application into logical blocks of navigation&lt;/li&gt;
+&lt;/ul&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/RxSwiftCommunity/RxFlow</string>
+			<key>licenseText</key>
+			<string>MIT License
+
+Copyright (c) RxSwiftCommunity
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>RxFlow</string>
+			<key>socialMediaURL</key>
+			<string>http://twitter.com/thwittem</string>
+			<key>summary</key>
+			<string>RxFlow is a navigation framework for iOS applications, based on a Reactive Coordinator pattern.</string>
+			<key>version</key>
+			<string>1.6.2</string>
+		</dict>
+		<dict>
+			<key>authors</key>
+			<dict>
+				<key>Krunoslav Zaher</key>
+				<string>krunoslav.zaher@gmail.com</string>
+			</dict>
+			<key>description</key>
+			<string>&lt;p&gt;This is a Swift port of &lt;a href="https://github.com/ReactiveX"&gt;ReactiveX.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Like the original &lt;a href="https://github.com/Reactive-extensions/Rx.Net"&gt;Rx&lt;/a&gt;, its intention is to enable easy composition of asynchronous operations and event streams.&lt;/p&gt;
+
+&lt;p&gt;It tries to port as many concepts from the original Rx as possible, but some concepts were adapted for more pleasant and performant integration with iOS/macOS/Linux environment.&lt;/p&gt;
+
+&lt;p&gt;Probably the best analogy for those who have never heard of Rx would be:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+git diff | grep bug | less          #  linux pipes - programs communicate by sending
+                    #  sequences of bytes, words, lines, &amp;#39; &amp;#39; terminated strings...
+&lt;/code&gt;
+would become if written in RxSwift
+&lt;code&gt;
+gitDiff().grep(&amp;quot;bug&amp;quot;).less          // sequences of swift objects
+&lt;/code&gt;&lt;/p&gt;
+</string>
+			<key>homepage</key>
+			<string>https://github.com/ReactiveX/RxSwift</string>
+			<key>licenseText</key>
+			<string>**The MIT License**
+**Copyright © 2015 Krunoslav Zaher**
+**All rights reserved.**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+			<key>licenseType</key>
+			<string>MIT</string>
+			<key>name</key>
+			<string>RxSwift</string>
+			<key>socialMediaURL</key>
+			<string></string>
+			<key>summary</key>
+			<string>RxSwift is a Swift implementation of Reactive Extensions</string>
+			<key>version</key>
+			<string>4.4.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
